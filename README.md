@@ -7,5 +7,3 @@
 [Computer vision : classification d'image](./OC-IA-P06/OC-IA-P6-CV.html)
 
 [NLP : détection de sentiment d'un tweet](./OC-IA-P07/OC-IA-P07_NN_TRAINING.html)
-
-
