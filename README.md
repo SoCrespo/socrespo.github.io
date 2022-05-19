@@ -9,4 +9,4 @@
 
 [Computer vision : classification d'image](./OC-IA-P06/OC-IA-P6-CV.html)
 
-[Computer vision : segmentation sémantique](./OC-OA-P8/OC_IA_P8_KERAS_RESNET50_NO_augmentation.html)
+[Computer vision : segmentation sémantique](./OC-IA-P8/OC_IA_P8_KERAS_RESNET50_NO_augmentation.html)
