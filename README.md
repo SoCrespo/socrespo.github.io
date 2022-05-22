@@ -1,5 +1,4 @@
 ## Projets OpenClassrooms - Ingénieur IA
-### Sophie Crespo
 
 [Classification : scoring bancaire](./OC-IA-P04/OC-IA-P4%20-%20lite.html)
 
