@@ -1,6 +1,4 @@
 ## Projets OpenClassrooms - Ingénieur IA
-<img height="200" align="right" src="https://c.pxhere.com/photos/f5/ab/army_blade_compact_cut_equipment_isolated_knife_metal-1159616.jpg!d">
-
 ### Sophie Crespo
 
 [Classification : scoring bancaire](./OC-IA-P04/OC-IA-P4%20-%20lite.html)
